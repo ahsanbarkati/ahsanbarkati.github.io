@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahsanbarkati.github.io/sitemap.xml
+Sitemap: https://ahsanbarkati.com/sitemap.xml
