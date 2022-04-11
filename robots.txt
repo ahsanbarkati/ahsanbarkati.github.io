@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://h-enk.github.io/doks-gh-pages/sitemap.xml
+Sitemap: https://ahsanbarkati.github.io/sitemap.xml
