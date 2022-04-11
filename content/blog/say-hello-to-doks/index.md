@@ -24,7 +24,7 @@ Let's get started quickly.
 
 3. Clone your new repository (`username.github.com`) and add the following config in `.github/workflows/deploy-github.yml` in order to trigger gh-page build on code push.
 
-```
+```yaml
 # Deploy your Hyas site to GitHub Pages
 
 name: GitHub Pages
@@ -59,13 +59,12 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 ```
-
 4. Push the changes, and follow the steps mentioned in this [doc](https://getdoks.org/docs/recipes/deployment/) to make github serve your page. Your final result should look something like below.
 {{< img-simple src="final.jpg" alt="Final" class="border-0" >}}
 
 5. Personalize it. Go to `layouts/index.html` and add the below code to have a landing page similar to mine. Do the required edits to make sure that you don't mention Ahsan Barkati on your blog's landing page.
 
-```
+```html
 {{ define "main" }}
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
