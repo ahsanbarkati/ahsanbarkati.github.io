@@ -2,8 +2,8 @@
 
 ## Homepage
 title = "ab."
-titleSeparator = "-"
-titleAddition = "A human's blog"
+titleSeparator = "|"
+titleAddition = "Ahsan Barkati"
 description = "Software Engineer. Following Curiosity."
 
 ## Open Graph
