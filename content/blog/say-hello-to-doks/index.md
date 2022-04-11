@@ -23,7 +23,6 @@ Let's get started quickly.
 {{< img-simple src="create-repo.jpg" alt="Final" class="border-0" >}}
 
 3. Clone your new repository (`username.github.com`) and add the following config in `.github/workflows/deploy-github.yml` in order to trigger gh-page build on code push.
-
 ```yaml
 # Deploy your Hyas site to GitHub Pages
 
@@ -59,6 +58,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 ```
+
 4. Push the changes, and follow the steps mentioned in this [doc](https://getdoks.org/docs/recipes/deployment/) to make github serve your page. Your final result should look something like below.
 {{< img-simple src="final.jpg" alt="Final" class="border-0" >}}
 
