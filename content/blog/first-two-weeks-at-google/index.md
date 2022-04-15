@@ -32,7 +32,7 @@ Then comes the most exciting thing, guess what? I wish this exciting thing would
 My manager organised an AMA session for me with the team. They asked me many questions; no more interview questions, I mean the fun questions. With my first few interactions, I can vouch that Google has been very successful in creating a welcoming environment and an environment of inclusion (at least my team
 made me feel so).
 
-Google has an internal website called "stuffs" where you can order stuff to make your work more productive. You can order things like a keyboard, mouse, monitors, phone, camera etc., all for FREE. I ordered a phone because I cannot log in with my google email on my one-plus. I also ordered a few accessories like a face light, webcam, and headphones.
+Google has an internal website called "stuffs" where you can order stuff to make your work more productive. You can order things like a keyboard, mouse, monitors, phone, camera etc., all for FREE. I ordered a phone because I cannot log-in with my google email on my one-plus. I also ordered a few accessories like a face light, webcam, and headphones.
 
 **Week two**
 
