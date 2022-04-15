@@ -2,10 +2,10 @@
 title: "My first couple of weeks at Google 🔥"
 description: "My experience of first two weeks at Google."
 lead: "My experience of first two weeks at Google."
-date: 2022-04-11T09:19:42+01:00
-lastmod: 2022-04-11T09:19:42+01:00
+date: 2022-04-15T09:19:42+01:00
+lastmod: 2022-04-15T09:19:42+01:00
 draft: false
-weight: 50
+weight: 40
 contributors: ["Ahsan Barkati"]
 ---
 
