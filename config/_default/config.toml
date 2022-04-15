@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ahsanbarkati.com"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
